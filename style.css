@@ -8,7 +8,7 @@ html, body {
 }
 
 #container {
-    background-image: linear-gradient(#ff9e61, #ff7620);
+    background-image: linear-gradient(#ff9e61, #ff7620, #032B43);
     width: 100vw;
     height: 100vh;
     overflow-x: hidden;
